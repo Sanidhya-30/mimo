@@ -1,0 +1,8 @@
+<launch>
+
+  <include file="/home/lucifer/catkin_ws/src/bot_description/src/launch/spawn.launch"/>
+
+    <!-- Start teleoperation node -->
+    <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py"/>
+
+</launch>

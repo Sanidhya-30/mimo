@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+
+   <include file="/home/lucifer/catkin_ws/src/bot_description/src/launch/spawn.launch"/>
+
+    <!-- Launching script -->
+        <node name="filtered_scan" pkg="bot_control" type="reading_laser.py" output="screen"/>
+        
+</launch>

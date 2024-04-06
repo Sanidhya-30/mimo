@@ -1,2 +1,0 @@
-bot_control:bot_description:bot_world
--DCATKIN_DEVEL_PREFIX=/home/lucifer/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lucifer/catkin_ws/install -G Unix Makefiles

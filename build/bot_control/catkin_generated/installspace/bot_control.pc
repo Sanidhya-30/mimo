@@ -1,8 +1,0 @@
-prefix=/home/lucifer/catkin_ws/install
-
-Name: bot_control
-Description: Description of bot_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
